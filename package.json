@@ -1,0 +1,22 @@
+{
+  "name": "playwright-auto-test",
+  "version": "1.0.0",
+  "description": "Automation test scripts typescript playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkNagurSharif/Playwright-Auto-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkNagurSharif/Playwright-Auto-Test/issues"
+  },
+  "homepage": "https://github.com/SkNagurSharif/Playwright-Auto-Test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.11"
+  }
+}
